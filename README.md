@@ -36,7 +36,7 @@ Before setting up the project, ensure that you have the following installed:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/ravindra-singh0507/NeuroFinance_AI
+git clone https://github.com/Ritesh-kr-ydv/FinTrack_AI
 cd NeuroFinance_AI
 ```
 
